@@ -7,7 +7,7 @@ Chat App using socket.io
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone SiddhantKodolkar/ChatApp
 ```
 
 Start the server by running the index.js file and start the liver server of the index.html file
