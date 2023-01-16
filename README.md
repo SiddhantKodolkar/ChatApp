@@ -5,3 +5,9 @@ Chat App using socket.io
 
 ## Sahil's Window:
 <img width="907" alt="2023-01-16 (3)" src="https://user-images.githubusercontent.com/111975032/212706507-1e73ad96-aa80-469f-b524-d59532b141ce.png">
+
+
+## Authors
+- [@SiddhantKodolkar](https://www.github.com/SiddhantKodolkar)
+- [@Sahil Madhyan](https://www.github.com/Sahil-Madhyan)
+
