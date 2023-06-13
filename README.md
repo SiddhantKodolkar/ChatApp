@@ -7,10 +7,22 @@ Chat App using socket.io
 Clone the project
 
 ```bash
-  git clone SiddhantKodolkar/ChatApp
+  git clone https://github.com/SiddhantKodolkar/ChatApp.git
 ```
 
-Start the server by running the index.js file and the live server of the index.html file
+Install all dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  nodemon .\nodeServer\index.js
+```
+
+Start the live server
 
 ## Siddhant's Window:
 <img width="908" alt="2023-01-16 (2)" src="https://user-images.githubusercontent.com/111975032/212706464-fa09fbc3-0924-48d8-9619-4af6ef2a26b6.png">
